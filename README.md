@@ -1,2 +1,2 @@
 # Travelly
-A fictional travel website. 
+A fictional travel website built. 
